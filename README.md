@@ -75,12 +75,6 @@ This tool is ready to be paired with any MCP-compatible client, including Claude
 
 ---
 
-## 📚 Additional Resources & Tutorials
-
-Explore the **[Examples Directory](examples)** to find more use cases and implementation strategies.[cite: 1]
-
----
-
 ## 🤝 How to Contribute
 
 We encourage community contributions to make this project even better:
